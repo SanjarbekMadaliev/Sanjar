@@ -1,3 +1,15 @@
+*Синтаксис* 
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+
+
 # Проверка делителей чисел
 
 ## Этот проект представляет собой консольное приложение на языке C#
